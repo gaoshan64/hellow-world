@@ -1,0 +1,40 @@
+<resources>
+    <string-array name="altitude_unit_entries">
+        <item>@string/unit_meters</item>
+        <item>@string/unit_feet</item>
+    </string-array>
+    <string-array name="altitude_unit_values">
+        <item>meters</item>
+        <item>feet</item>
+    </string-array>
+
+    <string-array name="speed_unit_entries">
+        <item>@string/unit_kmh</item>
+        <item>@string/unit_mph</item>
+        <item>@string/unit_mps</item>
+        <item>@string/unit_knots</item>
+    </string-array>
+    <string-array name="speed_unit_values">
+        <item>kmh</item>
+        <item>mph</item>
+        <item>mps</item>
+        <item>knots</item>
+    </string-array>
+
+    <string-array name="language_entries">
+        <item>@string/language_system_default</item>
+        <item>@string/language_english</item>
+        <item>@string/language_chinese_simplified</item>
+        <item>@string/language_spanish</item>
+        <item>@string/language_french</item>
+        <item>@string/language_hindi</item>
+    </string-array>
+    <string-array name="language_values">
+        <item>system</item>
+        <item>en</item>
+        <item>zh</item>
+        <item>es</item>
+        <item>fr</item>
+        <item>hi</item>
+    </string-array>
+</resources>

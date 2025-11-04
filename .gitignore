@@ -1,0 +1,15 @@
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Android Studio
+.idea/
+*.iml
+.cache/
+local.properties
+.DS_Store
+
+# Generated files
+captures/
+output.json

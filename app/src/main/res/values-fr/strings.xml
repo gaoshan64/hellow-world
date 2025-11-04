@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Boussole GPS</string>
+    <string name="heading_label">Cap</string>
+    <string name="direction_value_placeholder">0°</string>
+    <string name="direction_value_format">%1$d°</string>
+    <string name="altitude_label">Altitude</string>
+    <string name="speed_label">Vitesse</string>
+    <string name="last_fix_label">Dernière position GPS</string>
+    <string name="last_fix_unknown">En attente du GPS…</string>
+    <string name="value_placeholder">--</string>
+    <string name="altitude_value_format">%1$.1f %2$s</string>
+    <string name="speed_value_format">%1$.1f %2$s</string>
+    <string name="last_fix_value_format">Il y a %1$d s</string>
+    <string name="permission_rationale">L'autorisation de localisation est requise pour accéder au GPS.</string>
+    <string name="permission_denied">Autorisation de localisation refusée. Activez-la dans les paramètres.</string>
+    <string name="menu_settings">Paramètres</string>
+    <string name="settings_title">Paramètres</string>
+    <string name="units_altitude_title">Unités d'altitude</string>
+    <string name="units_speed_title">Unités de vitesse</string>
+    <string name="language_title">Langue</string>
+    <string name="unit_meters">mètres</string>
+    <string name="unit_feet">pieds</string>
+    <string name="unit_kmh">km/h</string>
+    <string name="unit_mph">mph</string>
+    <string name="unit_mps">m/s</string>
+    <string name="unit_knots">nœuds</string>
+    <string name="language_system_default">Langue du système</string>
+    <string name="language_english">English</string>
+    <string name="language_chinese_simplified">简体中文</string>
+    <string name="language_spanish">Español</string>
+    <string name="language_french">Français</string>
+    <string name="language_hindi">हिन्दी</string>
+    <string name="compass_center_placeholder">0°</string>
+</resources>

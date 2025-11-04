@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">जीपीएस कंपास</string>
+    <string name="heading_label">दिशा</string>
+    <string name="direction_value_placeholder">0°</string>
+    <string name="direction_value_format">%1$d°</string>
+    <string name="altitude_label">ऊँचाई</string>
+    <string name="speed_label">गति</string>
+    <string name="last_fix_label">अंतिम GPS फिक्स</string>
+    <string name="last_fix_unknown">GPS की प्रतीक्षा…</string>
+    <string name="value_placeholder">--</string>
+    <string name="altitude_value_format">%1$.1f %2$s</string>
+    <string name="speed_value_format">%1$.1f %2$s</string>
+    <string name="last_fix_value_format">%1$d सेकंड पहले</string>
+    <string name="permission_rationale">GPS डेटा के लिए लोकेशन अनुमति आवश्यक है।</string>
+    <string name="permission_denied">लोकेशन अनुमति अस्वीकृत। कृपया सेटिंग्स में सक्षम करें।</string>
+    <string name="menu_settings">सेटिंग्स</string>
+    <string name="settings_title">सेटिंग्स</string>
+    <string name="units_altitude_title">ऊँचाई इकाइयाँ</string>
+    <string name="units_speed_title">गति इकाइयाँ</string>
+    <string name="language_title">भाषा</string>
+    <string name="unit_meters">मीटर</string>
+    <string name="unit_feet">फीट</string>
+    <string name="unit_kmh">किमी/घंटा</string>
+    <string name="unit_mph">मील/घंटा</string>
+    <string name="unit_mps">मीटर/सेकंड</string>
+    <string name="unit_knots">नॉट्स</string>
+    <string name="language_system_default">सिस्टम डिफ़ॉल्ट</string>
+    <string name="language_english">English</string>
+    <string name="language_chinese_simplified">简体中文</string>
+    <string name="language_spanish">Español</string>
+    <string name="language_french">Français</string>
+    <string name="language_hindi">हिन्दी</string>
+    <string name="compass_center_placeholder">0°</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ListPreference
+        android:key="altitude_unit"
+        android:title="@string/units_altitude_title"
+        android:entries="@array/altitude_unit_entries"
+        android:entryValues="@array/altitude_unit_values"
+        android:defaultValue="meters" />
+
+    <ListPreference
+        android:key="speed_unit"
+        android:title="@string/units_speed_title"
+        android:entries="@array/speed_unit_entries"
+        android:entryValues="@array/speed_unit_values"
+        android:defaultValue="kmh" />
+
+    <ListPreference
+        android:key="language"
+        android:title="@string/language_title"
+        android:entries="@array/language_entries"
+        android:entryValues="@array/language_values"
+        android:defaultValue="system" />
+
+</PreferenceScreen>
