@@ -1,0 +1,6 @@
+<resources>
+    <color name="compassStroke">#607D8B</color>
+    <color name="compassTick">#90A4AE</color>
+    <color name="compassText">#546E7A</color>
+    <color name="compassHeading">#D32F2F</color>
+</resources>

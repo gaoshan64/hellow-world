@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">GPS罗盘</string>
+    <string name="heading_label">当前方向</string>
+    <string name="direction_value_placeholder">0°</string>
+    <string name="direction_value_format">%1$d°</string>
+    <string name="altitude_label">海拔</string>
+    <string name="speed_label">速度</string>
+    <string name="last_fix_label">上次定位</string>
+    <string name="last_fix_unknown">等待GPS…</string>
+    <string name="value_placeholder">--</string>
+    <string name="altitude_value_format">%1$.1f %2$s</string>
+    <string name="speed_value_format">%1$.1f %2$s</string>
+    <string name="last_fix_value_format">%1$d 秒前</string>
+    <string name="permission_rationale">需要定位权限以获取GPS数据。</string>
+    <string name="permission_denied">定位权限被拒绝，请在设置中开启。</string>
+    <string name="menu_settings">设置</string>
+    <string name="settings_title">设置</string>
+    <string name="units_altitude_title">海拔单位</string>
+    <string name="units_speed_title">速度单位</string>
+    <string name="language_title">语言</string>
+    <string name="unit_meters">米</string>
+    <string name="unit_feet">英尺</string>
+    <string name="unit_kmh">千米/小时</string>
+    <string name="unit_mph">英里/小时</string>
+    <string name="unit_mps">米/秒</string>
+    <string name="unit_knots">节</string>
+    <string name="language_system_default">跟随系统</string>
+    <string name="language_english">English</string>
+    <string name="language_chinese_simplified">简体中文</string>
+    <string name="language_spanish">Español</string>
+    <string name="language_french">Français</string>
+    <string name="language_hindi">हिन्दी</string>
+    <string name="compass_center_placeholder">0°</string>
+</resources>

@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Brújula GPS</string>
+    <string name="heading_label">Rumbo</string>
+    <string name="direction_value_placeholder">0°</string>
+    <string name="direction_value_format">%1$d°</string>
+    <string name="altitude_label">Altitud</string>
+    <string name="speed_label">Velocidad</string>
+    <string name="last_fix_label">Última señal GPS</string>
+    <string name="last_fix_unknown">Esperando GPS…</string>
+    <string name="value_placeholder">--</string>
+    <string name="altitude_value_format">%1$.1f %2$s</string>
+    <string name="speed_value_format">%1$.1f %2$s</string>
+    <string name="last_fix_value_format">Hace %1$d s</string>
+    <string name="permission_rationale">Se necesita el permiso de ubicación para acceder al GPS.</string>
+    <string name="permission_denied">Permiso de ubicación denegado. Habilítalo en ajustes.</string>
+    <string name="menu_settings">Configuración</string>
+    <string name="settings_title">Configuración</string>
+    <string name="units_altitude_title">Unidades de altitud</string>
+    <string name="units_speed_title">Unidades de velocidad</string>
+    <string name="language_title">Idioma</string>
+    <string name="unit_meters">metros</string>
+    <string name="unit_feet">pies</string>
+    <string name="unit_kmh">km/h</string>
+    <string name="unit_mph">mph</string>
+    <string name="unit_mps">m/s</string>
+    <string name="unit_knots">nudos</string>
+    <string name="language_system_default">Predeterminado del sistema</string>
+    <string name="language_english">English</string>
+    <string name="language_chinese_simplified">简体中文</string>
+    <string name="language_spanish">Español</string>
+    <string name="language_french">Français</string>
+    <string name="language_hindi">हिन्दी</string>
+    <string name="compass_center_placeholder">0°</string>
+</resources>
